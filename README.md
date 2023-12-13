@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Rugved Dhabale</h1>
 <h3 align="center">Mastering System and Native Programming</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2Px4NQ9EuOcRzDNLOOz54x&ust=1702548637282000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNil86OWjIMDFQAAAAAdAAAAABAP">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rugveddhabale&label=Profile%20views&color=0e75b6&style=flat" alt="rugveddhabale" /> </p>
 
 - 🌱 I’m currently learning **UNIX: Mother of all Operating Systems**
