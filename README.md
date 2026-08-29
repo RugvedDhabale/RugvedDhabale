@@ -88,11 +88,17 @@ Before IAM, I built full-stack web applications and embedded solutions end to en
 
 **Infrastructure** &nbsp; ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## GitHub stats
+## Somewhere between compile and panic
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=rugveddhabale&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugveddhabale&layout=compact&theme=transparent&hide_border=true" />
+
+<a href="https://github.com/rugveddhabale">
+  <img
+    src="https://pacman.abozanona.me?username=rugveddhabale"
+    alt="Pac-Man contribution graph"
+  />
+</a>
+
 </div>
 
 ---
