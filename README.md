@@ -13,7 +13,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=I+speak+fluent+React+and+bare-metal+C;Building+systems+from+the+cloud+to+the+microcontroller)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rugveddhabale&color=1D9E75&style=flat-square&label=profile+views)](https://github.com/RugvedDhabale)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rugveddhabale)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhabalerugved7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RugvedDhabale)
@@ -59,7 +58,7 @@ Before IAM, I built full-stack web applications and embedded solutions end to en
 
 - 🔧 Tuning custom kernel configurations on Raspberry Pi for gateway-specific workloads
 - 🌱 Learning UNIX internals - the OS model most of my embedded work sits on top of
-- 🎨 Messing around with OpenGL and legacy immediate-mode graphics in C, purely for fun
+- 🎨 Messing around with OpenGL and immediate-mode graphics in C and C++.
 - 🏗️ Sharpening OOP design judgment - composition over inheritance, and when patterns like Strategy or Observer actually earn their complexity
 
 ## Selected work
